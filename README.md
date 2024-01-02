@@ -13,4 +13,4 @@ https://github.com/code-business/dev-containers.git
 
 4. Select the environment you want to run in your container
 
-Read this Article for more details <a href="https://github.com/code-business/dev-containers">Code B Dev Containers</a>
+Read this Article for more details <a href="https://code-b.dev/blog/integrate-dev-containers-with-vs-code-using-docker">Code B Dev Containers</a>
